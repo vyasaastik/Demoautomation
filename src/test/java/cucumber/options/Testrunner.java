@@ -13,6 +13,7 @@ public class Testrunner {
 	
 	//Test Automation
 	// Demo automation
+	//Aastik automation
 
 }
 
