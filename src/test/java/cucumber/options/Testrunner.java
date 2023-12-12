@@ -11,9 +11,11 @@ import io.cucumber.junit.CucumberOptions;
 
 public class Testrunner {
 	
-	//Test Automation
-	// Demo automation
-	//Aastik automation
+//Fake Automation
+	// Late Automation
+	// Early Automation
+
+	
 
 }
 
