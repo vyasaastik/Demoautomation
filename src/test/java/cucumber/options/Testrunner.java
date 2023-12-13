@@ -17,6 +17,10 @@ public class Testrunner {
 	//November
 	//December
 	//Janruary
+	
+	//Nominal account
+	//Personal account 
+	// Profile account
 
 	
 	
