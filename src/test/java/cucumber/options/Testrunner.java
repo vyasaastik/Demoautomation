@@ -14,6 +14,8 @@ public class Testrunner {
 //Fake Automation
 	// Late Automation
 	// Early Automation
+	//Test Automation selenium
+	//Test Manual  Testing
 
 	
 
