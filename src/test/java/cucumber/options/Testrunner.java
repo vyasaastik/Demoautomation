@@ -15,6 +15,7 @@ public class Testrunner {
 	// Late Automation
 	// Early Automation
 	// Test Cyprus
+	//Test renorex
 
 	
 
