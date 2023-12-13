@@ -11,25 +11,8 @@ import io.cucumber.junit.CucumberOptions;
 
 public class Testrunner {
 	
-	// Hey Automation
-	// Bye Automation 
-	// October
-	//November
-	//December
-	//Janruary
+	//Hey
+	//Bye
 
 	
-	
-	
-	
-	
-	
-
-
-	
-
-	
-
 }
-
-
